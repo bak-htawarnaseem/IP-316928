@@ -1,0 +1,48 @@
+.one,.two,.three{
+    background-color: rgba(0, 0, 0, 0.705);
+    height: 510px;
+    width: 350px;
+    border-radius: 7px;
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    margin-left: 40px;
+}
+.main{
+    background: linear-gradient(90deg, rgba(36,0,36,1) 9%, rgba(9,121,95,1) 40%, rgba(255,0,236,1) 93%);
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;   
+}
+img{
+    background: linear-gradient(90deg, rgba(9,69,51,1) 23%, rgba(147,47,25,1) 53%, rgba(130,16,33,1) 85%);
+    height: 200px;
+    width: 200px;
+    padding-top: 20px;
+}
+h1{
+    color: seagreen;
+}
+h2{
+    color: palevioletred;
+    padding-bottom: 5px;
+}
+p{
+    color: slateblue;
+    padding-bottom: 15px;
+}
+button{
+    background-color:rgba(143, 188, 143, 0.719);
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 7px;
+    color:maroon;
+   border-color: mediumslateblue;
+   margin-left: 20px;
+   font-size: 20px;
+}
+i{
+    font-size: 30px;
+}
